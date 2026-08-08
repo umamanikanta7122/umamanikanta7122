@@ -1,3 +1,4 @@
+![Uma Manikanta Banner](ChatGPT%20Image%20Aug%208,%202026,%2006_18_17%20PM.png)
 # Hi, I'm Uma Manikanta 👋
 
 🎓 **MCA Student at Aditya University**  
