@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Uma Manikanta 👋
 
-<!--
-**umamanikanta7122/umamanikanta7122** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MCA Student at **Aditya University**  
+💻 Learning **Python from fundamentals to advanced**  
+🌐 Building projects with **Django, PostgreSQL, HTML, CSS, JavaScript**  
+📊 Interested in **Data Analytics, Data Engineering, and AI applications**
 
-Here are some ideas to get you started:
+## 🚀 Featured Projects
+- Vibely – Social Media Web Application
+- E-Commerce Web Application
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+Python • Django • PostgreSQL • HTML • CSS • JavaScript • Git • GitHub
+
+## 📫 Connect With Me
+- LinkedIn: https://www.linkedin.com/in/uma-manikanta-5a4962313/
+- GitHub: https://github.com/umamanikanta7122
